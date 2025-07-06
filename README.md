@@ -104,12 +104,12 @@ const ismael = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaellHV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=00d9ff" alt="Ismael's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaellHV&layout=compact&langs_count=10&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=00d9ff&hide=html,css,scss&custom_title=Most%20Used%20Languages" alt="Most Used Languages"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IsmaellHV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=00d9ff&hide_border=true" alt="Ismael's GitHub Stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaellHV&layout=compact&langs_count=12&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=00d9ff&hide_border=true&hide=html,css,scss,less,sass,stylus&custom_title=Most%20Used%20Languages&card_width=400" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaellHV&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaellHV&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Ismael's%20Contribution%20Graph&height=300" alt="Activity Graph"/>
 </div>
 
 ### 🎯 My Top Languages & Technologies
@@ -124,12 +124,18 @@ const ismael = {
 
 </div>
 
+### 📈 Additional Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IsmaellHV&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=00d9ff&hide_border=true&custom_title=Weekly%20Development%20Breakdown" alt="Wakatime Stats"/>
+</div>
+
 ---
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaellHV&theme=tokyonight&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=ffffff&dates=ffffff" alt="IsmaellHV's GitHub streak"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaellHV&theme=tokyonight&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="IsmaellHV's GitHub streak"/>
 </div>
 
 ---
@@ -172,3 +178,11 @@ _"The best way to predict the future is to create it"_ - I'm always working on p
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
+
+---
+
+<!-- LAST_UPDATED:START -->
+
+**🔄 Last Updated:** 2025-01-06 Manual Setup
+
+<!-- LAST_UPDATED:END -->

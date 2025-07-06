@@ -1,0 +1,24 @@
+{
+  "name": "ismael-github-profile",
+  "version": "1.0.0",
+  "description": "GitHub Profile README with auto-updating stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "stats",
+    "readme",
+    "automation"
+  ],
+  "author": "Ismael Hurtado",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsmaellHV/IsmaellHV.git"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
