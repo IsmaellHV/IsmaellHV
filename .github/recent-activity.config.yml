@@ -2,13 +2,12 @@ settings:
   username: IsmaellHV
   commit_username: github-actions[bot]
   commit_email: github-actions[bot]@users.noreply.github.com
-  commit_message: ':zap: Update README with the recent activity'
+  commit_message: ":zap: Update README with the recent activity"
   max_lines: 5
   readme_file: README.md
   disabled_events:
-    - comments
-  date_format: default
-  timezone: UTC
+    - "comments"
+  url_text: "{REPO}{PATH}"
 
 recent_activity:
   - type: push
