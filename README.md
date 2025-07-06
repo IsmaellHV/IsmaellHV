@@ -101,7 +101,20 @@ const ismael = {
 
 ---
 
-## 📊 GitHub Stats
+## � Recent Activity
+
+<!--START_SECTION:activity-->
+
+1. ⭐ Starred [repository/name](https://github.com/user/repo)
+2. 🎉 Merged PR [#1](https://github.com/user/repo/pull/1) in [repository/name](https://github.com/user/repo)
+3. 💪 Opened PR [#2](https://github.com/user/repo/pull/2) in [repository/name](https://github.com/user/repo)
+4. 🗣 Commented on [#3](https://github.com/user/repo/issues/3) in [repository/name](https://github.com/user/repo)
+5. 🎉 Merged PR [#4](https://github.com/user/repo/pull/4) in [repository/name](https://github.com/user/repo)
+<!--END_SECTION:activity-->
+
+---
+
+## �📊 GitHub Stats
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IsmaellHV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=00d9ff&hide_border=true" alt="Ismael's GitHub Stats"/>

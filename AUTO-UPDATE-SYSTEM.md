@@ -20,6 +20,14 @@ Workflow principal que se ejecuta diariamente para:
 - Agregar/actualizar timestamp de última actualización
 - Hacer commit y push automático de los cambios
 
+### `.github/workflows/update-readme2.yml`
+
+Workflow adicional que se ejecuta cada 12 horas para:
+
+- Actualizar la sección de actividad reciente en el README
+- Mostrar los últimos commits, PRs, issues y stars
+- Mantener actualizada la información de actividad en GitHub
+
 ### `.github/dependabot.yml`
 
 Configuración de Dependabot para:
@@ -57,17 +65,20 @@ El sistema usa `GITHUB_TOKEN` automáticamente. Si necesitas permisos adicionale
 
 ### Automático
 
-- El workflow se ejecuta **todos los días a las 9:00 AM UTC**
+- El workflow principal se ejecuta **todos los días a las 9:00 AM UTC**
+- El workflow de actividad reciente se ejecuta **cada 12 horas**
 - Actualiza automáticamente las URLs de estadísticas con cache busting
+- Actualiza la sección de actividad reciente con los últimos eventos
 - Agrega timestamp de última actualización
 - Hace commit y push automático
 
 ### Manual
 
-Puedes ejecutar el workflow manualmente:
+Puedes ejecutar los workflows manualmente:
 
-1. Ve a **Actions** > **Update GitHub Profile Stats**
-2. Haz clic en **Run workflow**
+1. Ve a **Actions** > **Update GitHub Profile Stats** (para estadísticas)
+2. Ve a **Actions** > **Update README2** (para actividad reciente)
+3. Haz clic en **Run workflow**
 
 También puedes usar el script local:
 
@@ -85,6 +96,8 @@ El sistema actualiza automáticamente:
 - ✅ Streak Stats (racha de commits)
 - ✅ Activity Graph (gráfico de contribuciones)
 - ✅ Profile Views Counter
+- ✅ Recent Activity (últimos eventos de GitHub)
+- ✅ Timestamp de última actualización
 
 ## 🔄 Dependabot
 
