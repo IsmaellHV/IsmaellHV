@@ -101,20 +101,20 @@ const ismael = {
 
 ---
 
-## � Recent Activity
+## 🚀 Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [repository/name](https://github.com/user/repo)
-2. 🎉 Merged PR [#1](https://github.com/user/repo/pull/1) in [repository/name](https://github.com/user/repo)
-3. 💪 Opened PR [#2](https://github.com/user/repo/pull/2) in [repository/name](https://github.com/user/repo)
-4. 🗣 Commented on [#3](https://github.com/user/repo/issues/3) in [repository/name](https://github.com/user/repo)
-5. 🎉 Merged PR [#4](https://github.com/user/repo/pull/4) in [repository/name](https://github.com/user/repo)
-<!--END_SECTION:activity-->
+1. ⬆️ Pushed 2 commit(s) to [IsmaellHV/IsmaellHV](https://github.com/IsmaellHV/IsmaellHV)
+2. ⬆️ Pushed 1 commit(s) to [IsmaellHV/portfolio-frontend](https://github.com/IsmaellHV/portfolio-frontend)
+3. � Opened issue [#1](https://github.com/user/repo/issues/1) in [repository/name](https://github.com/user/repo)
+4. � Opened PR [#2](https://github.com/user/repo/pull/2) in [repository/name](https://github.com/user/repo)
+5. ⭐ Starred [repository/name](https://github.com/user/repo)
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
-## �📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IsmaellHV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=00d9ff&hide_border=true" alt="Ismael's GitHub Stats"/>
@@ -137,12 +137,6 @@ const ismael = {
 
 </div>
 
-### 📈 Additional Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IsmaellHV&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=00d9ff&hide_border=true&custom_title=Weekly%20Development%20Breakdown" alt="Wakatime Stats"/>
-</div>
-
 ---
 
 ## 🔥 Streak Stats
@@ -161,10 +155,9 @@ const ismael = {
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihurtadov)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](ismaelhv@outlook.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ismaelhv.com)
 
 ---
 
@@ -194,7 +187,8 @@ _"The best way to predict the future is to create it"_ - I'm always working on p
 
 ---
 
-
 <!-- LAST_UPDATED:START -->
+
 **🔄 Last Updated:** 2025-07-06 05:50:56 UTC
+
 <!-- LAST_UPDATED:END -->

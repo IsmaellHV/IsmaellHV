@@ -1,0 +1,45 @@
+settings:
+  username: IsmaellHV
+  commit_username: github-actions[bot]
+  commit_email: github-actions[bot]@users.noreply.github.com
+  commit_message: ':zap: Update README with the recent activity'
+  max_lines: 5
+  readme_file: README.md
+  disabled_events:
+    - comments
+  date_format: default
+  timezone: UTC
+
+recent_activity:
+  - type: push
+    emoji: '⬆️'
+    prefix: 'Pushed'
+    suffix: 'commit(s) to'
+  - type: issues
+    emoji: '🔥'
+    prefix: 'Opened issue'
+    suffix: 'in'
+  - type: pull_request
+    emoji: '💪'
+    prefix: 'Opened PR'
+    suffix: 'in'
+  - type: pull_request_review
+    emoji: '👀'
+    prefix: 'Reviewed PR'
+    suffix: 'in'
+  - type: create
+    emoji: '🎉'
+    prefix: 'Created'
+    suffix: ''
+  - type: fork
+    emoji: '🍴'
+    prefix: 'Forked'
+    suffix: ''
+  - type: watch
+    emoji: '⭐'
+    prefix: 'Starred'
+    suffix: ''
+  - type: release
+    emoji: '🚀'
+    prefix: 'Released'
+    suffix: 'in'
