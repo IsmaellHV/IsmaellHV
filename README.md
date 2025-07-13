@@ -104,11 +104,11 @@ const ismael = {
 ## 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [IsmaellHV/IsmaellHV](https://github.com/IsmaellHV/IsmaellHV)<br>
+1. ⭐ Starred [IsmaellHV/portfolio-frontend](https://github.com/IsmaellHV/portfolio-frontend)<br>
 2. ⬆️ Pushed 1 commit(s) to [IsmaellHV/IsmaellHV](https://github.com/IsmaellHV/IsmaellHV)<br>
-3. ⬆️ Pushed 2 commit(s) to [IsmaellHV/IsmaellHV](https://github.com/IsmaellHV/IsmaellHV)<br>
+3. ⬆️ Pushed 1 commit(s) to [IsmaellHV/IsmaellHV](https://github.com/IsmaellHV/IsmaellHV)<br>
 4. ⬆️ Pushed 2 commit(s) to [IsmaellHV/IsmaellHV](https://github.com/IsmaellHV/IsmaellHV)<br>
-5. ⬆️ Pushed 1 commit(s) to [IsmaellHV/IsmaellHV](https://github.com/IsmaellHV/IsmaellHV)<br>
+5. ⬆️ Pushed 2 commit(s) to [IsmaellHV/IsmaellHV](https://github.com/IsmaellHV/IsmaellHV)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
