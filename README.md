@@ -105,7 +105,6 @@ const ismael = {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [IsmaellHV/portfolio-frontend](https://github.com/IsmaellHV/portfolio-frontend)<br>
-2. ⭐ Starred [IsmaellHV/portfolio-frontend](https://github.com/IsmaellHV/portfolio-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
