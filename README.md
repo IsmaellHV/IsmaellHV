@@ -108,7 +108,6 @@ const ismael = {
 2. 🤝 Became collaborator on [Farid-Mejia/SystemEstacionamiento-MS](https://github.com/Farid-Mejia/SystemEstacionamiento-MS)<br>
 3. ⬆️ Pushed 1 commit(s) to [IsmaellHV/proyectointegrador-webincibot](https://github.com/IsmaellHV/proyectointegrador-webincibot)<br>
 4. ⬆️ Pushed 1 commit(s) to [IsmaellHV/proyectointegrador-webincibot](https://github.com/IsmaellHV/proyectointegrador-webincibot)<br>
-5. ⬆️ Pushed 1 commit(s) to [IsmaellHV/proyectointegrador-webincibot](https://github.com/IsmaellHV/proyectointegrador-webincibot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
