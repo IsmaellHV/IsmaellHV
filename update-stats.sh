@@ -13,11 +13,11 @@ echo "📅 Current Date: $CURRENT_DATE"
 echo "🔄 Cache Buster: $CACHE_BUSTER"
 
 # Update cache busting parameters in README
-sed -i "s/cache_buster=[0-9]*/cache_buster=$CACHE_BUSTER/g" README.md
+sed -i '' "s/cache_buster=[0-9]*/cache_buster=$CACHE_BUSTER/g" README.md
 
 # Update last updated section
 if grep -q "LAST_UPDATED:START" README.md; then
-    sed -i "/LAST_UPDATED:START/,/LAST_UPDATED:END/d" README.md
+    sed -i '' "/LAST_UPDATED:START/,/LAST_UPDATED:END/d" README.md
 fi
 
 echo "" >> README.md

@@ -8,11 +8,7 @@
 
 ## 🚀 About Me
 
-> I'm a software developer with over **7 years of experience**, specializing in backend development and the creation of AI-powered applications.
-
----
-
-## 🎯 About Me
+> I'm a **software developer** with over **7 years of experience**, specializing in **backend development** and the creation of **AI-powered applications**.
 
 Hello! My name is **Ismael**. I enjoy building solutions that improve people's lives while pushing the boundaries of what's possible.
 
@@ -20,10 +16,10 @@ I love combining AI with powerful backend technologies to tackle real challenges
 
 I'm curious and open-minded, always seeking fresh opportunities to learn, grow, and expand my skill set.
 
-Here are a few technologies I've been working with recently:
+### 🔧 Technologies I work with:
 
 - ⚡ **Node.js** - Building scalable backend services
-- 🌐 **JavaScript** - Full-stack development
+- 🌐 **JavaScript/TypeScript** - Full-stack development
 - ⚛️ **React** - Modern frontend applications
 - 🐍 **Python** - AI/ML development and automation
 - ☁️ **Cloudflare** - Edge computing and CDN
@@ -40,10 +36,10 @@ const ismael = {
   frontend: ['React', 'HTML5', 'CSS3', 'Tailwind CSS'],
   backend: ['Node.js', 'Express.js'],
   aiTools: ['OpenAI', 'Gemini', 'Langchain', 'AI Agents'],
-  databases: ['Firebase', 'Supabase'],
+  databases: ['Firebase', 'Supabase', 'MySQL', 'PostgreSQL'],
   devOps: ['Docker', 'AWS', 'DigitalOcean', 'Heroku', 'Netlify', 'Vercel'],
   tools: ['Git', 'GitHub', 'Linux', 'CI/CD'],
-  specialties: ['ChatBot Development', 'REST API', 'SocketCluster', 'Whatsapp API'],
+  specialties: ['ChatBot Development', 'REST API', 'SocketCluster', 'WhatsApp API'],
 };
 ```
 
@@ -86,6 +82,7 @@ const ismael = {
 ### **Artificial Intelligence & APIs**
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![ChatBot](https://img.shields.io/badge/-ChatBot%20Development-00D9FF?style=flat-square&logo=chatbot&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-FF6B6B?style=flat-square&logo=robot&logoColor=white)
@@ -96,14 +93,16 @@ const ismael = {
 
 - 🤖 Advanced AI Agent Development
 - 🔄 Microservices Architecture
-- 📱 Mobile App Development
+- 📱 Mobile App Development with React Native
 - 🎨 UI/UX Design Principles
+- 🧠 Machine Learning & Deep Learning
 
 ---
 
 ## 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 2 commit(s) to [IsmaellHV/IsmaellHV](https://github.com/IsmaellHV/IsmaellHV)
 2. ⬆️ Pushed 1 commit(s) to [IsmaellHV/portfolio-frontend](https://github.com/IsmaellHV/portfolio-frontend)
 3. 🔥 Opened issue [#1](https://github.com/user/repo/issues/1) in [repository/name](https://github.com/user/repo)
@@ -116,12 +115,8 @@ const ismael = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IsmaellHV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=00d9ff&hide_border=true" alt="Ismael's GitHub Stats"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaellHV&layout=compact&langs_count=12&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=00d9ff&hide_border=true&hide=html,css,scss,less,sass,stylus&custom_title=Most%20Used%20Languages&card_width=400" alt="Most Used Languages"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaellHV&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Ismael's%20Contribution%20Graph&height=300" alt="Activity Graph"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaellHV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ismael's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaellHV&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages"/>
 </div>
 
 ### 🎯 My Top Languages & Technologies
@@ -146,6 +141,14 @@ const ismael = {
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaellHV&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Ismael's%20Contribution%20Graph&height=300" alt="Activity Graph"/>
+</div>
+
+---
+
 ## 🎵 Currently Listening To
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyusername)
@@ -154,16 +157,12 @@ const ismael = {
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihurtadov)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](ismaelhv@outlook.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ismaelhv.com)
-
----
-
-## 📈 Activity Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaellHV&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Ismael's%20Contribution%20Graph" alt="Activity Graph"/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihurtadov)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaelhv@outlook.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ismaelhv.com)
+
 </div>
 
 ---
@@ -188,6 +187,6 @@ _"The best way to predict the future is to create it"_ - I'm always working on p
 
 <!-- LAST_UPDATED:START -->
 
-**🔄 Last Updated:** 2025-07-06 05:56:32 UTC
+**🔄 Last Updated:** 2026-02-03 22:57:15 UTC
 
 <!-- LAST_UPDATED:END -->
