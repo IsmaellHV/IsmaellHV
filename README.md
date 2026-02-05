@@ -103,10 +103,10 @@ const ismael = {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [IsmaellHV/portfolio-frontend-v2](https://github.com/IsmaellHV/portfolio-frontend-v2)<br>
-2. ❌ Closed PR [#1](undefined) in [IsmaellHV/portfolio-frontend-v2](https://github.com/IsmaellHV/portfolio-frontend-v2)<br>
-3. ❌ Closed PR [#2](undefined) in [IsmaellHV/portfolio-frontend-v2](https://github.com/IsmaellHV/portfolio-frontend-v2)<br>
+2. ⬆️ Pushed undefined commit(s) to [IsmaellHV/portfolio-frontend-v2](https://github.com/IsmaellHV/portfolio-frontend-v2)<br>
+3. ⬆️ Pushed undefined commit(s) to [IsmaellHV/portfolio-frontend-v2](https://github.com/IsmaellHV/portfolio-frontend-v2)<br>
 4. ⬆️ Pushed undefined commit(s) to [IsmaellHV/portfolio-frontend-v2](https://github.com/IsmaellHV/portfolio-frontend-v2)<br>
-5. ⬆️ Pushed undefined commit(s) to [IsmaellHV/portfolio-frontend-v1](https://github.com/IsmaellHV/portfolio-frontend-v1)<br>
+5. ⬆️ Pushed undefined commit(s) to [IsmaellHV/portfolio-frontend-v2](https://github.com/IsmaellHV/portfolio-frontend-v2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
