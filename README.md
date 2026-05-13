@@ -105,7 +105,7 @@ const ismael = {
 1. ⬆️ Pushed undefined commit(s) to [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)<br>
 2. ⬆️ Pushed undefined commit(s) to [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)<br>
 3. ⬆️ Pushed undefined commit(s) to [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)<br>
-4. ⬆️ Pushed undefined commit(s) to [IsmaellHV/portfolio-frontend-v2](https://github.com/IsmaellHV/portfolio-frontend-v2)<br>
+4. ⬆️ Pushed undefined commit(s) to [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)<br>
 5. ⬆️ Pushed undefined commit(s) to [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
