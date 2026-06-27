@@ -105,7 +105,6 @@ const ismael = {
 1. ⬆️ Pushed undefined commit(s) to [IsmaellHV/tools](https://github.com/IsmaellHV/tools)<br>
 2. ⬆️ Pushed undefined commit(s) to [IsmaellHV/tools](https://github.com/IsmaellHV/tools)<br>
 3. ⬆️ Pushed undefined commit(s) to [IsmaellHV/tools](https://github.com/IsmaellHV/tools)<br>
-4. 💪 Opened PR [#1](undefined) in [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
