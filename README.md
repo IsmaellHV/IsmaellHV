@@ -102,7 +102,8 @@ const ismael = {
 ## 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](undefined) in [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)<br>
+1. ⬆️ Pushed undefined commit(s) to [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)<br>
+2. 💪 Opened PR [#2](undefined) in [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
