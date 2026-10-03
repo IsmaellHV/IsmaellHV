@@ -2,17 +2,44 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Every 12 hours
+    - cron: '17 */12 * * *' # every 12 hours
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/recent-activity.mjs'
+      - '.github/workflows/update-readme.yml'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
-  build:
+  recent-activity:
+    name: Update recent activity
     runs-on: ubuntu-latest
-    name: Update Profile README
+    timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v7
 
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: Refresh recent activity
+        run: node .github/scripts/recent-activity.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Recent activity unchanged, nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "⚡ Update README with the recent activity"
+          git push
