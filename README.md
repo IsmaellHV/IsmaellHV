@@ -90,10 +90,11 @@ I'm a software developer with **7+ years of experience**, focused on **backend d
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⬆️ Pushed to [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)
+- ⬆️ Pushed to [IsmaellHV/fastlink-frontend](https://github.com/IsmaellHV/fastlink-frontend)
 - 🌍 Made [IsmaellHV/ucv-maestriaia-pln](https://github.com/IsmaellHV/ucv-maestriaia-pln) public
 - ⬆️ Pushed to [IsmaellHV/portfolio-frontend-v4](https://github.com/IsmaellHV/portfolio-frontend-v4)
 - 🔀 Merged PR [#2](https://github.com/IsmaellHV/wahub-frontend/pull/2) in [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)
-- 💪 Opened PR [#2](https://github.com/IsmaellHV/wahub-frontend/pull/2) in [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 ---
