@@ -91,7 +91,6 @@ I'm a software developer with **7+ years of experience**, focused on **backend d
 
 <!--RECENT_ACTIVITY:start-->
 - ⬆️ Pushed to [IsmaellHV/portfolio-frontend-v4](https://github.com/IsmaellHV/portfolio-frontend-v4)
-- ⬆️ Pushed to [IsmaellHV/wahub-frontend](https://github.com/IsmaellHV/wahub-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 ---
