@@ -90,6 +90,7 @@ I'm a software developer with **7+ years of experience**, focused on **backend d
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
 - ⬆️ Pushed to [IsmaellHV/portfolio-frontend-v4](https://github.com/IsmaellHV/portfolio-frontend-v4)
 <!--RECENT_ACTIVITY:end-->
 
